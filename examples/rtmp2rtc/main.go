@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	rtcrtmp "github.com/notedit/rtc-rtmp"
+	rtcrtmp "github.com/heimuya/rtc-rtmp"
 	"github.com/notedit/rtmp-lib"
 	"github.com/notedit/rtmp-lib/av"
 	"github.com/notedit/rtmp-lib/pubsub"

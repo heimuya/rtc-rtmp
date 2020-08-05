@@ -1,4 +1,4 @@
-module github.com/notedit/rtc-rtmp
+module github.com/heimuya/rtc-rtmp
 
 go 1.13
 

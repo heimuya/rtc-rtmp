@@ -3,7 +3,7 @@ package rtcrtmp
 import (
 	"bytes"
 	"fmt"
-	"github.com/notedit/rtc-rtmp/trans"
+	"github.com/heimuya/rtc-rtmp/trans"
 	"github.com/notedit/rtmp-lib"
 	"github.com/notedit/rtmp-lib/aac"
 	"github.com/notedit/rtmp-lib/av"
